@@ -1,4 +1,6 @@
 import subprocess, sys
+#hping3 icmp flood auto script
+#By T34CH3R HackTeam
 try:
 	host_ip = sys.argv[1]
 	packet_size = sys.argv[2]
